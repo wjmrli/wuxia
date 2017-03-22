@@ -1,6 +1,6 @@
-Union Manager of Tianyamingyuedao basic on Yii2
+Union Manager of Tianyamingyuedao based on Yii2
 ================================================
-Designed for all players in Tianyamingyuedao to manage the unions of players in this game with the method such as loging data, setting awards, calculate the present for the unions¡¯ players. It¡¯s free for all Union managers to register their own Union in this online app.
+Designed for all players in Tianyamingyuedao to manage the unions of players in this game with the method such as loging data, setting awards, calculate the present for the unionsÂ¡Â¯ players. ItÂ¡Â¯s free for all Union managers to register their own Union in this online app.
 The program is developed by wj.Li.
 Now shared with all developers.
 DIRECTORY STRUCTURE
